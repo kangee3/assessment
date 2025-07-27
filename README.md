@@ -1,2 +1,2 @@
 # assessment
-部首クイズタイピング
+assement
